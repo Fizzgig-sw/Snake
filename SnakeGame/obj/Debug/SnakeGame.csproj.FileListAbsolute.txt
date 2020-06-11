@@ -1,0 +1,13 @@
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\bin\Debug\OpenTK.dll
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\bin\Debug\OpenTK.pdb
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\bin\Debug\OpenTK.xml
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CopyComplete
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\Users\Miyu\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
